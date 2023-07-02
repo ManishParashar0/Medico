@@ -1,5 +1,5 @@
 # Medico
-Sure! Here's some content for the Medico project:
+
 
 **Welcome to Medico: Bridging the Gap in Healthcare Communication**
 
