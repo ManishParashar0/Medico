@@ -4,7 +4,6 @@
 Medico is a cutting-edge healthcare platform designed to streamline communication between doctors and patients. Our platform leverages advanced technologies such as Java, Servlet, JSP, JSTL, JDBC, SQL, MySQL, HTML, CSS, and Bootstrap for both front-end and back-end development, ensuring a seamless user experience and robust functionality.
 
 **Features of Medico:**
-
 1. **User Registration and Login:** Medico provides a user-friendly registration and login system, allowing doctors and patients to create their accounts and securely log in to the platform. Personal information and credentials are encrypted and stored safely in our database.
 
 2. **Personalized User Profiles:** Upon registration, users can create and manage their personalized profiles, including contact information, medical history, and preferences. These profiles facilitate effective communication and allow doctors to have a comprehensive understanding of their patients' needs.
