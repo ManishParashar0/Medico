@@ -1,6 +1,4 @@
 # Medico
-
-
 **Welcome to Medico: Bridging the Gap in Healthcare Communication**
 
 Medico is a cutting-edge healthcare platform designed to streamline communication between doctors and patients. Our platform leverages advanced technologies such as Java, Servlet, JSP, JSTL, JDBC, SQL, MySQL, HTML, CSS, and Bootstrap for both front-end and back-end development, ensuring a seamless user experience and robust functionality.
