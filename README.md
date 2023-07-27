@@ -8,11 +8,16 @@
 <body>
   <div class="logo-container">
     <img src="Welcomepage.png" alt="Medico Logo">
+   
   </div>
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="images/user-registration.png" alt="User Registration">
+      <img src="Registerpage (1).PNG" alt="User Registration">
+    </div>
+    <div class="feature-container">
+    <div class="image-container">
+      <img src="Login.png" alt="Medico Logo">
     </div>
     <div class="summary">
       <h3>User Registration and Login:</h3>
