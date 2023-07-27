@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Medico</title>
+ 
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="logo-container">
-    <img src="images/medico-logo.png" alt="Medico Logo">
+    <img src="Welcomepage.png" alt="Medico Logo">
   </div>
 
   <div class="feature-container">
