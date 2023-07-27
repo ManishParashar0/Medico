@@ -11,7 +11,7 @@
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="Registerpage(1).PNG" alt="User Registration">
+      <img src="Registerpage (1).PNG" alt="User Registration">
     </div>
    <div class="feature-container">
     <div class="image-container">
@@ -25,7 +25,7 @@
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="images/personalized-user-profiles.png" alt="Personalized User Profiles">
+      <img src="createprofilepage.PNG" alt="Personalized User Profiles">
     </div>
     <div class="summary">
       <h3>Personalized User Profiles:</h3>
@@ -35,7 +35,7 @@
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="images/auto-chat-box.png" alt="Auto Chat Box">
+      <img src="chat boat for clinte.PNG" alt="Auto Chat Box">
     </div>
     <div class="summary">
       <h3>Auto Chat Box:</h3>
@@ -45,7 +45,7 @@
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="images/appointment-scheduling.png" alt="Appointment Scheduling">
+      <img src="chatewithuser.PNG" alt="Appointment Scheduling">
     </div>
     <div class="summary">
       <h3>Appointment Scheduling:</h3>
@@ -55,7 +55,7 @@
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="images/secure-messaging.png" alt="Secure Messaging">
+      <img src="chatewithuser.PNG" alt="Secure Messaging">
     </div>
     <div class="summary">
       <h3>Secure Messaging:</h3>
