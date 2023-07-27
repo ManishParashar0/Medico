@@ -17,7 +17,7 @@
     </div>
     <div class="feature-container">
     <div class="image-container">
-      <img src="Login.png" alt="Medico Logo">
+      <img src="Login.PNG" alt="Medico Logo">
     </div>
     <div class="summary">
       <h3>User Registration and Login:</h3>
