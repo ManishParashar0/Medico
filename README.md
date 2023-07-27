@@ -1,27 +1,35 @@
-
 <!DOCTYPE html>
 <html>
 <head>
- 
+  
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="logo-container">
-    <img src="Welcomepage.png" alt="Medico Logo">
-   
+    <img src="Welcomepage.png" alt="welcome">
   </div>
 
   <div class="feature-container">
     <div class="image-container">
-      <img src="Registerpage (1).PNG" alt="User Registration">
+      <img src="Registerpage(1).PNG" alt="User Registration">
     </div>
-    <div class="feature-container">
+   <div class="feature-container">
     <div class="image-container">
-      <img src="Login.PNG" alt="Medico Logo">
+      <img src="Login.PNG" alt="login">
     </div>
     <div class="summary">
       <h3>User Registration and Login:</h3>
       <p>Medico provides a user-friendly registration and login system, allowing doctors and patients to create their accounts and securely log in to the platform. Personal information and credentials are encrypted and stored safely in our database.</p>
+    </div>
+  </div>
+
+  <div class="feature-container">
+    <div class="image-container">
+      <img src="images/personalized-user-profiles.png" alt="Personalized User Profiles">
+    </div>
+    <div class="summary">
+      <h3>Personalized User Profiles:</h3>
+      <p>Upon registration, users can create and manage their personalized profiles, including contact information, medical history, and preferences. These profiles facilitate effective communication and allow doctors to have a comprehensive understanding of their patients' needs.</p>
     </div>
   </div>
 
