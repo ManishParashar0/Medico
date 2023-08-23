@@ -62,6 +62,7 @@
       <p>Medico's secure messaging system allows doctors and patients to exchange messages, ensuring privacy and confidentiality. This feature enables users to ask follow-up questions, share additional information, and receive personalized guidance from doctors outside of scheduled appointments.</p>
     </div>
   </div>
+    <img src="medicoBean requires.png" alt="Secure Messaging">
 
   <!-- Add other features and summaries as needed -->
 
