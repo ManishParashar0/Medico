@@ -63,6 +63,7 @@
     </div>
   </div>
     <img src="medicoBean requires.png" alt="Secure Messaging">
+      <img src="MEDICO PROJECT.png" alt="Secure Messaging">
 
   <!-- Add other features and summaries as needed -->
 
