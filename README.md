@@ -37,6 +37,12 @@
     <div class="image-container">
       <img src="chat boat for clinte.PNG" alt="Auto Chat Box">
     </div>
+
+
+ <div class="feature-container">
+    <div class="image-container">
+      <img src="Dashbordmedico.PNG" alt="Auto Chat Box">
+    </div>
     <div class="summary">
       <h3>Auto Chat Box:</h3>
       <p>Our intelligent auto chat box serves as a virtual assistant, enabling real-time communication between doctors and patients. The chat box utilizes natural language processing techniques and predefined algorithms to provide instant responses, answer queries, and offer medical advice based on the symptoms and concerns shared by the patients.</p>
